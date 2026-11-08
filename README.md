@@ -20,7 +20,7 @@ Put the project on the local disk:
 
 ```bash
 mkdir -p ~/Developer
-git clone https://github.com/LewisAGI/week-on-plate.git ~/Developer/week-on-plate
+git clone https://github.com/Lewis-AI-Collab/week-on-plate.git ~/Developer/week-on-plate
 cd ~/Developer/week-on-plate
 ```
 
